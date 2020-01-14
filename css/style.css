@@ -98,12 +98,10 @@ form {
 }
 
 .titolomail {
-    display: inline;
     font-weight: 800;
 }
 
 .testomail {
-    display: inline;
     color: grey;
 }
 
@@ -122,4 +120,8 @@ input {
 
 .testomail::before {
     content: "- ";
+}
+
+.stella:after {
+    content: "\02605"
 }
