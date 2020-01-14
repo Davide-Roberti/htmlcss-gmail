@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+background-image: url(https://hdqwalls.com/wallpapers/floor-wood-5k-q4.jpg);
+background-size: cover;
+}
+
+header {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+    border-top: 2px lightblue;
+    width: 700px
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 50px;
+    padding-top: 10px;
+}
+
+h1 {
+    color: white;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+footer {
+    border-top: solid 2px lightblue;
+    margin-top: 5px;
+    text-align: center;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gmailfooter, .footerwritings {
+    display: inline;
+    color: white;
+    font-weight: 800;
+}
+
+.gmailfooter {
+    font-size: 25px;
+}
+
+.footerwritings {
+    font-style: italic;
+}
+
+.bottone {
+    padding: 1px 10px;
+    border-radius: 5px;
+    font-size: 9px
+}
+
+.unread {
+    display: inline;
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+#number {
+    padding: 5px;
+    background-color: orange;
+    border-radius: 25px;
+}
+
+form {
+    margin-bottom: 10px;
+    margin-top: 4px;
+}
+
+.ricerca {
+    border-bottom: solid 2px lightblue;
+    border-top: solid 2px lightblue;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.comunicazione {
+    margin-bottom: 7px;
+}
+
+.titolomail {
+    display: inline;
+    font-weight: 800;
+}
+
+.testomail {
+    display: inline;
+    color: grey;
+}
+
+.mail-one {
+    background-color: #f0f0f0;
+    border: solid 1px black;
+}
+
+input {
+    margin-left: 3px;
+}
