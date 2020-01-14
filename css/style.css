@@ -28,6 +28,7 @@ main {
 img {
     width: 50px;
     padding-top: 10px;
+    vertical-align: middle;
 }
 
 h1 {
@@ -113,4 +114,12 @@ form {
 
 input {
     margin-left: 3px;
+}
+
+.testomail::after {
+    content: "...";
+}
+
+.testomail::before {
+    content: "- ";
 }
